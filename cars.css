@@ -1,0 +1,45 @@
+body{font-size: 15px;}
+
+main{background-color:hsla(0, 0%, 95%);
+margin:100px;
+height:35rem;
+padding:100px 200px;
+display:flex;
+}
+
+.one{background-color:hsl(31, 77%, 52%);
+}
+.two{background-color:hsl(184, 100%, 22%);}
+
+.three{background-color:hsl(179, 100%, 13%);}
+
+button{margin-top: 100px;
+border:none;
+border-radius: 20px;
+padding: 10px;
+font-weight: bold;
+width:130px;
+background-color:hsla(0, 0%, 95%);
+font-family: 'Lexend Deca', sans-serif;
+}
+
+section{padding:50px 50px 50px 30px;
+    color: white;
+    line-height: 2rem;
+}
+
+p{color:hsla(0, 0%, 100%, 0.75);
+font-family: 'Lexend Deca', sans-serif;}
+
+h1{color:hsla(0, 0%, 95%);
+font-family: 'Big Shoulders Display', cursive;
+}
+
+.butt-one {color:hsl(31, 77%, 52%);}
+
+.butt-two{color:hsl(184, 100%, 22%);}
+
+.butt-three{color:hsl(179, 100%, 13%);}
+
+
+ 
